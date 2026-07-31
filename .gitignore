@@ -85,7 +85,6 @@ tests/binaries/**/div_zero_binary/binary
 tests/library/qemu_system/kimages
 
 # VS Code files
-.vscode/
 
 .zig/
 gdb.txt
@@ -102,3 +101,5 @@ result*
 
 # lsp configuration
 pyrightconfig.json
+config.bat
+node_modules
